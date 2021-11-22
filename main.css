@@ -1,0 +1,25 @@
+@import url('https://fonts.googleleapis.com/css?family=Poppins:400,500,600,700,900');
+
+
+body {
+				margin: 0;
+				padding: 100;
+				background: #000;
+}
+p
+{
+				font-size : 25px;
+				line-height : 15px; 
+				font-family: : 'Poppins', sans-serif;
+				display: flex;
+				text-align : justify;
+				-webkit-background-size : cover;
+				background-size : cover;
+				background-repeat : no-repeat;
+				background-position : center;
+				background : url(noemi.jpg) no-repeat center/cover;
+				background-attachment : fixed;
+				-webkit-background-clip : text;
+				-webkit-text-fill-color : rgba(255,255,255,0);
+				
+}
